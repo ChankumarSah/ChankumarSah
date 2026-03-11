@@ -82,29 +82,50 @@
 ---
 
 <!-- ===================== PROJECTS ===================== -->
+## 📊 Featured Projects
 
-## 🚀 Featured Projects
+### 🛒 Blinkit Sales Dashboard Analysis
 
-📊 Blinkit Sales Dashboard Analysis
+Power BI dashboard analyzing sales performance, outlet size distribution, and product categories.
 
-https://github.com/ChankumarSah/Blinkit_Sales_Dashboard_Analysis
+![Blinkit Dashboard](https://github.com/ChankumarSah/Blinkit_Sales_Dashboard_Analysis/blob/main/dashboard.png)
 
-📊 Competitive Marketing Analysis – Power BI 
+🔗 Project Link: https://github.com/ChankumarSah/Blinkit_Sales_Dashboard_Analysis
 
-https://github.com/ChankumarSah/Competitive-Marketing-Analysis-PowerBI
+### 📈 Competitive Marketing Analysis – Power BI
 
-📊 Regional Sales Analysis 
+Interactive Power BI dashboard analyzing marketing performance, sales trends, and channel effectiveness to support data-driven decisions.
 
-https://github.com/ChankumarSah/Regional-Sales-Sample
+![Competitive-Marketing-Analysis-PowerBI Dashboard](https://github.com/ChankumarSah/Competitive-Marketing-Analysis-PowerBI/blob/main/sales_dashboard.png)
 
-📊 Corporate-Spend-Analysis-PowerBI
+🔗 Project Link: https://github.com/ChankumarSah/Competitive-Marketing-Analysis-PowerBI
 
-https://github.com/ChankumarSah/Corporate-Spend-Analysis-PowerBI
 
-🎬 CineScope AI Recommender
+### 💼 Corporate Spend Analysis
 
-https://github.com/ChankumarSah/CineScope-AI-Recommender
+Power BI dashboard analyzing corporate IT spending across departments and time periods.
 
+![Corporate Spend Dashboard](https://github.com/ChankumarSah/Corporate-Spend-Analysis-PowerBI/blob/main/finance.png)
+
+🔗 Project Link: https://github.com/ChankumarSah/Corporate-Spend-Analysis-PowerBI
+
+### 📊 Regional Sales Analysis
+
+Power BI dashboard analyzing regional sales performance across different markets, identifying revenue trends, top-performing regions, and sales distribution.
+Regional-Sales-Sample
+
+![Regional-Sales-Sample Dashboard](https://github.com/ChankumarSah/Regional-Sales-Sample/blob/main/regional_sales.png)
+
+🔗 Project Link: https://github.com/ChankumarSah/Regional-Sales-Sample
+
+### 🎬 CineScope AI Recommender
+
+AI-powered content-based movie recommendation system built with Python and Streamlit.
+
+![CineScope Demo](https://github.com/ChankumarSah/CineScope-AI-Recommender/blob/main/cinescope_demo.png)
+
+🔗 Live App: https://cinescope-ai-recommender.streamlit.app
+🔗 GitHub Repo: https://github.com/ChankumarSah/CineScope-AI-Recommender
 🎬 CineScope Collaborative Movie Recommender
 
 https://github.com/ChankumarSah/CineScope-Collaborative-Movie-Recommender
