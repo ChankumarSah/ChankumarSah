@@ -62,13 +62,14 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/GoogleSheets-34A853?style=for-the-badge\&logo=google-sheets\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black)
-
+![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge\&logo=Tableau\&logoColor=white)
 ### 🐍 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 📚 Python Libraries
 
+![Statistics](https://img.shields.io/badge/Statistics-F2C811?style=for-the-badge\&logo=Statistics\&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
