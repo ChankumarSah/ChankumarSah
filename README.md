@@ -97,6 +97,10 @@ https://github.com/ChankumarSah/Competitive-Marketing-Analysis-PowerBI
 
 https://github.com/ChankumarSah/Regional-Sales-Sample
 
+📊 Corporate-Spend-Analysis-PowerBI
+
+https://github.com/ChankumarSah/Corporate-Spend-Analysis-PowerBI
+
 🎬 CineScope AI Recommender
 
 https://github.com/ChankumarSah/CineScope-AI-Recommender
