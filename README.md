@@ -125,7 +125,9 @@ AI-powered content-based movie recommendation system built with Python and Strea
 ![CineScope Demo](https://github.com/ChankumarSah/CineScope-AI-Recommender/blob/main/cinescope_demo.png)
 
 🔗 Live App: https://cinescope-ai-recommender.streamlit.app
+
 🔗 GitHub Repo: https://github.com/ChankumarSah/CineScope-AI-Recommender
+
 🎬 CineScope Collaborative Movie Recommender
 
 https://github.com/ChankumarSah/CineScope-Collaborative-Movie-Recommender
