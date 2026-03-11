@@ -130,11 +130,15 @@ AI-powered content-based movie recommendation system built with Python and Strea
 
 🎬 CineScope Collaborative Movie Recommender
 
-https://github.com/ChankumarSah/CineScope-Collaborative-Movie-Recommender
+🔗 Live App: https://cinescope-collaborative-movie-recommender.streamlit.app/
+
+🔗 GitHub Repo: https://github.com/ChankumarSah/CineScope-Collaborative-Movie-Recommender
 
 📩 SMS Spam Classifier
 
-https://github.com/ChankumarSah/SMS_Spam_Classifier
+🔗 Live App: https://spamsclassifier.streamlit.app/
+
+🔗 GitHub Repo: https://github.com/ChankumarSah/SMS_Spam_Classifier
 
 <!-- ===================== STATS ===================== -->
 
