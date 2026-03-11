@@ -89,6 +89,13 @@
 
 https://github.com/ChankumarSah/Blinkit_Sales_Dashboard_Analysis
 
+📊 Competitive Marketing Analysis – Power BI 
+
+https://github.com/ChankumarSah/Competitive-Marketing-Analysis-PowerBI
+
+📊 Regional Sales Analysis 
+
+https://github.com/ChankumarSah/Regional-Sales-Sample
 
 🎬 CineScope AI Recommender
 
