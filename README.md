@@ -128,13 +128,23 @@ AI-powered content-based movie recommendation system built with Python and Strea
 
 🔗 GitHub Repo: https://github.com/ChankumarSah/CineScope-AI-Recommender
 
+### Flipkart-Sales-Data-Analysis
+
+Exploratory Data Analysis of Flipkart e-commerce sales data using Python, Pandas, Matplotlib, and Seaborn.
+
+🔗 Project Link: https://github.com/ChankumarSah/Flipkart-Sales-Data-Analysis
+
 🎬 CineScope Collaborative Movie Recommender
+
+A collaborative filtering-based movie recommendation system that suggests movies to users based on similarities in user preferences and viewing patterns.
 
 🔗 Live App: https://cinescope-collaborative-movie-recommender.streamlit.app/
 
 🔗 GitHub Repo: https://github.com/ChankumarSah/CineScope-Collaborative-Movie-Recommender
 
 📩 SMS Spam Classifier
+
+A machine learning model that classifies SMS messages as spam or legitimate using natural language processing techniques.
 
 🔗 Live App: https://spamsclassifier.streamlit.app/
 
