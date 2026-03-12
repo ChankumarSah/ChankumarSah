@@ -132,6 +132,8 @@ AI-powered content-based movie recommendation system built with Python and Strea
 
 Exploratory Data Analysis of Flipkart e-commerce sales data using Python, Pandas, Matplotlib, and Seaborn.
 
+![Flipkart Dahboard](https://github.com/ChankumarSah/Flipkart-Sales-Data-Analysis/blob/main/Flipkart_dashboard.jpeg)
+
 🔗 Project Link: https://github.com/ChankumarSah/Flipkart-Sales-Data-Analysis
 
 🎬 CineScope Collaborative Movie Recommender
