@@ -136,6 +136,14 @@ Exploratory Data Analysis of Flipkart e-commerce sales data using Python, Pandas
 
 🔗 Project Link: https://github.com/ChankumarSah/Flipkart-Sales-Data-Analysis
 
+### Online-Bookstore-Sales-Analysis
+
+Sales data analysis of an online bookstore using SQL for data exploration and Power BI for interactive dashboard visualization. The project provides insights into revenue trends, customer behavior, top-performing genres, and city-wise order distribution.
+
+![Online Bookstore Dashboard](https://github.com/ChankumarSah/Online_BookStore_Analysis_SQL-_PowerBI/blob/main/online_bookstore.png)
+
+🔗 Project Link: https://github.com/ChankumarSah/Online_BookStore_Analysis_SQL-_PowerBI
+
 🎬 CineScope Collaborative Movie Recommender
 
 A collaborative filtering-based movie recommendation system that suggests movies to users based on similarities in user preferences and viewing patterns.
@@ -143,6 +151,7 @@ A collaborative filtering-based movie recommendation system that suggests movies
 🔗 Live App: https://cinescope-collaborative-movie-recommender.streamlit.app/
 
 🔗 GitHub Repo: https://github.com/ChankumarSah/CineScope-Collaborative-Movie-Recommender
+
 
 📩 SMS Spam Classifier
 
