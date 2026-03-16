@@ -144,6 +144,15 @@ Sales data analysis of an online bookstore using SQL for data exploration and Po
 
 🔗 Project Link: https://github.com/ChankumarSah/Online_BookStore_Analysis_SQL-_PowerBI
 
+### 🎵 Music Store Data Analysis (SQL)
+
+SQL-based exploratory data analysis of the Chinook Music Store database to analyze customer purchasing patterns, sales performance, and popular music genres using joins, CTEs, and advanced SQL queries.
+
+![Music Store Database Schema](https://github.com/ChankumarSah/Music-Store-Data-Analysis-SQL/blob/main/music_store_schema.png)
+
+🔗 Project Link: https://github.com/ChankumarSah/Music-Store-Data-Analysis-SQL
+
+
 🎬 CineScope Collaborative Movie Recommender
 
 A collaborative filtering-based movie recommendation system that suggests movies to users based on similarities in user preferences and viewing patterns.
