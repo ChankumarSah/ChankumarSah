@@ -1,17 +1,23 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar Sah</h1>
-<h3 align="center">📊  Data Analyst | SQL • Excel • Power BI • Python •Google Sheets • Tableau</h3>
+
+<h3 align="center">
+📊 Data Analyst | 🤖 Machine Learning | 📈 Business Intelligence
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI;Python+for+Data+Analysis;Machine+Learning+Enthusiast;Turning+Data+Into+Insights">
+SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine Learning
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ChankumarSah&label=Profile%20views&color=0e75b6&style=flat">
+<img src="https://readme-typing-svg.herokuapp.com?color=1E88E5&size=24&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;SQL+%7C+Power+BI+%7C+Python;Data+Visualization+%7C+Business+Intelligence;Building+End-to-End+Analytics+Projects;Transforming+Data+into+Actionable+Insights">
 </p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ChankumarSah&label=Profile%20views&color=1E88E5&style=flat">
+</p>
+
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -73,6 +79,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### ⚙️ Tools
 
@@ -91,6 +98,15 @@ Power BI dashboard analyzing sales performance, outlet size distribution, and pr
 ![Blinkit Dashboard](https://github.com/ChankumarSah/Blinkit_Sales_Dashboard_Analysis/blob/main/dashboard.png)
 
 🔗 Project Link: https://github.com/ChankumarSah/Blinkit_Sales_Dashboard_Analysis
+
+### 📦 Supply Chain Analytics Dashboard – Samsung
+
+Power BI dashboard analyzing supply chain performance including revenue, profit, inventory, shipment delays, and supplier efficiency.
+
+![Supply Chain Dashboard](https://github.com/ChankumarSah/Supply-Chain-Analytics-Dashboard-Samsung/blob/main/supply_chain_analytics_dashboard_samsung.png)
+
+🔗 Project Link: https://github.com/ChankumarSah/Supply-Chain-Analytics-Dashboard-Samsung
+
 
 ### 📈 Competitive Marketing Analysis – Power BI
 
