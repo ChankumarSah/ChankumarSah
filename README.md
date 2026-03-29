@@ -31,8 +31,8 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
 - Dashboard Development (Power BI)  
-- SQL Analysis (CTEs, Window Functions)  
-- Machine Learning Basics  
+- SQL Analysis (CTEs, Window Functions,Joins)  
+- Machine Learning  
 
 💡 Passionate about solving **real-world business problems using data-driven approaches**
 📈 Experienced in analyzing datasets with **1M+ records and building KPI-driven dashboards**
@@ -89,6 +89,10 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
@@ -99,22 +103,27 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 ## 📊 Featured Projects
 
 ### 🛒 Blinkit Sales Dashboard Analysis
+**Power BI • DAX • Python (Pandas, NumPy) • Excel • ETL Pipeline**
 
-🚀 End-to-End Project: Data Cleaning → Data Modeling → Power BI Dashboard → Business Insights  
+🚀 End-to-End: Data Cleaning → Data Modeling → Power BI Dashboard → Business Insights
 
-📌 Problem: Lack of visibility into sales performance, product trends, and outlet efficiency  
+|                 |                                                                                      |
+| --------------- | ------------------------------------------------------------------------------------ |
+| 📌 **Problem**  | Lack of visibility into sales performance, outlet efficiency, and product trends     |
+| 💡 **Solution** | Built an interactive Power BI dashboard using DAX, data modeling, and dynamic KPIs   |
+| 📈 **Impact**   | Identified top-performing outlets and revenue drivers, enabling measurable decisions |
 
-💡 Solution: Built an interactive Power BI dashboard to analyze sales, product categories, and outlet performance  
+✔ Examined **8,523 grocery items** tracking **$1.20M total sales**
 
-📈 Impact: Identified high-performing products, outlet types, and key sales trends for data-driven decisions  
+✔ Built KPIs: Total Sales, Avg Sales (141), Avg Rating (3.9)
 
-✔ Analyzed **1.20M+ sales** across **8,500+ items**  
-✔ Built KPIs: Total Sales, Avg Sales (141), Avg Rating (3.9)  
-✔ Identified top categories driving revenue  
-✔ Evaluated outlet performance across Tier 1, 2, 3  
-✔ Analyzed customer preferences (Low Fat vs Regular)  
+✔ Uncovered Tier 3 outlets & Supermarket Type 1 as top revenue drivers
 
-🛠 Tools: Power BI | Excel | Data Modeling
+✔ Mapped fat content distribution, outlet comparisons & year-wise sales trends
+
+✔ Certified **SO Infotech** deliverable
+
+🛠 Tools: Power BI | DAX | Excel | Data Modeling
 
 ![Blinkit Dashboard](https://github.com/ChankumarSah/Blinkit_Sales_Dashboard_Analysis/blob/main/dashboard.png)
 
@@ -122,38 +131,57 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 
 ### 📦 Supply Chain Analytics Dashboard – Samsung
 
-🚀 End-to-End Project: Data Modeling → DAX → Power BI Dashboard → Business Insights  
+**Power BI • DAX • Excel • Data Modeling • KPI Tracking**
 
-📌 Problem: Lack of visibility into inventory, shipments, and profitability  
+🚀 End-to-End: Data Cleaning → Data Modeling → KPI Dashboard → Supply Chain Insights
 
-💡 Solution: Built a supply chain dashboard analyzing revenue, inventory, and logistics  
+|                 |                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------- |
+| 📌 **Problem**  | No real-time visibility into revenue, shipments, and supplier performance          |
+| 💡 **Solution** | Built KPI-driven Power BI dashboard tracking supply chain metrics across platforms |
+| 📈 **Impact**   | Identified logistics bottlenecks and improved operational decision-making          |
 
-📈 Impact: Identified shipment delays, inventory inefficiencies, and top sales channels  
+✔ Monitored **$93M+ revenue** with **27.53% profit margin**
 
-✔ Analyzed **93M+ revenue & 24M+ profit**  
-✔ Tracked shipment performance and delays  
-✔ Optimized supplier and channel insights  
+✔ Tracked **2M+ shipments** across carriers (Maersk, DHL)
 
-🛠 Tools: Power BI | SQL | DAX
+✔ Identified delays and supplier inefficiencies
+
+✔ Analyzed platform-wise revenue (Amazon, Flipkart, Best Buy)
+
+✔ Improved supply chain visibility and performance insights
+
+🛠 Tools: Power BI | DAX | Excel
+
 
 ![Supply Chain Dashboard](https://github.com/ChankumarSah/Supply-Chain-Analytics-Dashboard-Samsung/blob/main/supply_chain_analytics_dashboard_samsung.png)
 
 🔗 Project Link: https://github.com/ChankumarSah/Supply-Chain-Analytics-Dashboard-Samsung
 
  ### 🤖 Customer Churn Prediction System
-🚀 End-to-End Project: SQL → Power BI → Machine Learning  
+ 
+**Python • Scikit-learn • Power BI • SQL • Pandas • Machine Learning**
 
-📌 Problem: Businesses lack visibility into customer churn drivers  
+🚀 End-to-End: Data Cleaning → EDA → Feature Engineering → ML Model → Dashboard → Insights
 
-💡 Solution: Built ML model + dashboard to analyze and predict churn  
+|                 |                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------- |
+| 📌 **Problem**  | High customer churn causing revenue loss with no visibility into attrition drivers |
+| 💡 **Solution** | Built ML classification models and Power BI dashboard to predict and analyze churn |
+| 📈 **Impact**   | Identified high-risk customers enabling targeted retention strategies              |
 
-📈 Impact: Identified high-risk customers and key churn factors  
+✔ Analyzed **6,400+ customers** with **27% churn rate**
 
-✔ Built Random Forest model for prediction  
-✔ Analyzed churn trends and customer segments  
-✔ Combined SQL + BI + ML pipeline  
+✔ Segmented churn by tenure, contract type, payment method & geography
 
-🛠 Tools: Python | Pandas | Scikit-learn | Power BI | Data Visualization
+✔ Built **Random Forest & Logistic Regression models**
+
+✔ Identified **382+ high-risk customers**
+
+✔ Visualized churn insights using interactive dashboard
+
+🛠 Tools: Python | Scikit-learn | Power BI | SQL
+
 
 ![Churn Summary](https://raw.githubusercontent.com/ChankumarSah/-Customer--Churn-Analysis-Prediction-System/main/churn_analysis.png)
 ![Churn Prediction](https://raw.githubusercontent.com/ChankumarSah/-Customer--Churn-Analysis-Prediction-System/main/churn_analysis_1.png)
@@ -162,19 +190,28 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 
 ### 🎬 CineScope AI Recommender (Content-Based)
 
-🚀 End-to-End Project: NLP → Similarity Model → Streamlit App  
+**Python • NLP • TF-IDF • Scikit-learn • Streamlit • Recommendation System**
 
-📌 Problem: Users struggle to find relevant movies  
+🚀 End-to-End: Data Processing → NLP Modeling → Recommendation Engine → Deployment
 
-💡 Solution: Built recommendation engine using cosine similarity  
+|                 |                                                                          |
+| --------------- | ------------------------------------------------------------------------ |
+| 📌 **Problem**  | Users struggle to find relevant movies matching their preferences        |
+| 💡 **Solution** | Built NLP-based recommendation system using TF-IDF and cosine similarity |
+| 📈 **Impact**   | Delivered real-time personalized recommendations                         |
 
-📈 Impact: Delivered real-time personalized movie suggestions  
+✔ Processed **5,000+ movies dataset**
 
-✔ Handles **5,000+ movies**  
-✔ Built NLP-based similarity model  
-✔ Deployed interactive app  
+✔ Built similarity model using **TF-IDF + cosine similarity**
 
-🛠 Tools: Python | Pandas | Scikit-learn | NLP | Streamlit
+✔ Achieved **<2 second response time**
+
+✔ Integrated OMDb API for real-time movie posters
+
+✔ Deployed live interactive Streamlit app
+
+🛠 Tools: Python | NLP | Scikit-learn | Streamlit
+
 
 ![CineScope Demo](https://github.com/ChankumarSah/CineScope-AI-Recommender/blob/main/cinescope_demo.png)
 
@@ -184,17 +221,25 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 
 ### Flipkart-Sales-Data-Analysis
 
-🚀 End-to-End Project: Data Cleaning → EDA → Visualization  
+**Python • Pandas • NumPy • Matplotlib • Seaborn • Excel**
 
-📌 Problem: Lack of insights into product and customer trends  
+🚀 End-to-End: Data Cleaning → EDA → Visualization → Business Insights
 
-💡 Solution: Performed Python-based EDA on sales data  
+|                 |                                                                      |
+| --------------- | -------------------------------------------------------------------- |
+| 📌 **Problem**  | Lack of insights into product trends, pricing, and customer behavior |
+| 💡 **Solution** | Performed exploratory data analysis and visualization using Python   |
+| 📈 **Impact**   | Identified revenue-driving products and customer trends              |
 
-📈 Impact: Identified pricing patterns and product trends  
+✔ Analyzed **25,000+ e-commerce records**
 
-✔ Analyzed product categories and pricing  
-✔ Explored customer demographics  
-✔ Built visual insights using Python  
+✔ Performed Pareto analysis — top 20% products drove **68% revenue**
+
+✔ Identified key customer locations (Bengaluru, Ahmedabad, Jaipur)
+
+✔ Analyzed pricing patterns and seasonal demand
+
+✔ Built visual insights using Python libraries
 
 🛠 Tools: Python | Pandas | Matplotlib | Seaborn
 
@@ -204,37 +249,54 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 
 ### Online-Bookstore-Sales-Analysis
 
-🚀 End-to-End Project: SQL → Data Analysis → Power BI Dashboard  
+**PostgreSQL • CTEs • Window Functions • JOINs • Power BI**
 
-📌 Problem: Lack of insights into revenue and customer behavior  
+🚀 End-to-End: Data Extraction → SQL Analysis → KPI Insights → Dashboard
 
-💡 Solution: Performed advanced SQL analysis and built BI dashboard  
+|                 |                                                                               |
+| --------------- | ----------------------------------------------------------------------------- |
+| 📌 **Problem**  | No visibility into customer behavior, revenue trends, and product performance |
+| 💡 **Solution** | Performed advanced SQL analysis and built dashboards for insights             |
+| 📈 **Impact**   | Identified top customers and revenue-driving segments                         |
 
-📈 Impact: Identified top customers contributing majority revenue  
+✔ Analyzed **10,000+ transactions across 11 tables**
 
-✔ Top 20% customers → ~65–70% revenue  
-✔ Analyzed genres and sales trends  
-✔ Used CTEs & window functions  
+✔ Applied **CTEs, JOINs, window functions**
 
-🛠 Tools: SQL | Power BI | Data Modeling
+✔ Calculated Customer Lifetime Value (LTV)
+
+✔ Identified top 20% customers contributing **65–70% revenue**
+
+✔ Built dashboards for regional and genre performance
+
+🛠 Tools: PostgreSQL | SQL | Power BI
+
 
 ![Online Bookstore Dashboard](https://github.com/ChankumarSah/Online_BookStore_Analysis_SQL-_PowerBI/blob/main/online_bookstore.png)
 
 🔗 Project Link: https://github.com/ChankumarSah/Online_BookStore_Analysis_SQL-_PowerBI
 
-### 🎬 CineScope Collaborative Movie Recommender
+**Python • Collaborative Filtering • Cosine Similarity • Streamlit • Recommendation System**
 
-🚀 End-to-End Project: User-Item Matrix → Similarity Models  
+🚀 End-to-End: User-Item Matrix → Similarity Models → Recommendation Engine → Deployment
 
-📌 Problem: Need personalized recommendations based on user behavior  
+|                 |                                                                                   |
+| --------------- | --------------------------------------------------------------------------------- |
+| 📌 **Problem**  | Lack of personalized recommendations based on user behavior and preferences       |
+| 💡 **Solution** | Built collaborative filtering system using user similarity models                 |
+| 📈 **Impact**   | Delivered personalized recommendations by comparing user preferences and behavior |
 
-💡 Solution: Built collaborative filtering system  
+✔ Built **user-item interaction matrix** for recommendation system
 
-📈 Impact: Improved personalization using user similarity  
+✔ Implemented similarity models: **cosine, euclidean, and manhattan distance**
 
-✔ Used cosine, euclidean, manhattan  
-✔ Built recommendation engine  
-✔ Compared similarity models  
+✔ Compared model performance to improve recommendation accuracy
+
+✔ Generated personalized movie suggestions based on similar users
+
+✔ Deployed interactive recommendation system using Streamlit
+
+🛠 Tools: Python | Collaborative Filtering | Streamlit | Scikit-learn
 
 🔗 Live App: https://cinescope-collaborative-movie-recommender.streamlit.app/
 
