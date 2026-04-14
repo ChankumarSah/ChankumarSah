@@ -151,7 +151,7 @@ SQL • Power BI • Python • Excel • Tableau • Google Sheets • Machine 
 
 ✔ Improved supply chain visibility and performance insights
 
-🛠 Tools: Power BI | Excel | Data Modeling | DAX | Dashboard | Business Insights
+🛠 Tools: Power BI | Excel | Data Modeling | DAX | Dashboard | Business Insights | Descion Making
 
 
 ![Supply Chain Dashboard](https://github.com/ChankumarSah/Supply-Chain-Analytics-Dashboard-Samsung/blob/main/home.png)
